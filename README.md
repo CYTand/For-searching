@@ -1,5 +1,7 @@
 # For-searching
-# From https://github.com/codota/tabnine-intellij
+
+```java
+// From https://github.com/codota/tabnine-intellij
 
 package com.tabnine.intellij.completions;
 
@@ -243,3 +245,4 @@ public class TabNineCompletionContributor extends CompletionContributor {
     lookupEx.addLookupListener(lookupListener);
   }
 }
+```
